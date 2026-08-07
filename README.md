@@ -346,7 +346,7 @@ Hospital Receives Confirmation
 ## Clone Repository
 
 ```bash
-git clone https://github.com/your-username/lifelink-smart-blood-donation.git
+git clone https://github.com/Jyoti-coder-1004/lifelink-smart-blood-donation.git
 ```
 
 ## Frontend
@@ -369,7 +369,7 @@ npm run dev
 
 # 👨‍💻 Developed By
 
-**Jyoti**
+**Jyoti Singh**
 
 B.Tech CSE Student | MERN Stack Developer
 
